@@ -15,6 +15,10 @@ Ao longo do periodo fui desenvolvendo alguns trabalhos que me marcaram e que eu 
 <p> <img src="./imagens/Copa.png"></p>
 **Aplicativo Multimidia - Copa Do Mundo** é um aplicativo com o intuito **Educacional/Cultural** em que o usuário pode ver informações sobre as Copas do Mundo, bem como seus melhores gols, campeões, etc. No desenvolvimento desse projeto eu aprendi a trabalhar com **Multiplas bibliotecas e Multimidias**.
 
+<p> <img src="./imagens/InfoAnime.png"></p>
+**InfoAnime** É um Aplicativo WEB desenvolvido por minha equipe, Com o intuito **Informativo/Cultural** em que apresenta **informações sobre os Animes** como: Aberturas, Imagens e top mais assistidos, Alem da possibilidade de **Criar um cadastro pessoal**. Com o Desenvolvimento desse projeto aprendi alguns conhecimentos com **Front End**, **PHP** e **Banco de Dados**.
+
+
 ## Raciocinio Algorítmico
 <p> <img src="./imagens/minado.png"></p>
 **Campo Minado** é um programa feito em linguagem **Python** baseado no jogo do campo minado em que ele pede uma posição ao usuario, E se nessa posição tiver uma bomba ele perde o jogo e se não tiver ele continua. No desenvolvimento desse codigo aprendi a lidar bem com a *Logica por traz de Arrays bem como **Seu comportamento**.
